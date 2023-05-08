@@ -1,0 +1,116 @@
+C:\Users\Oaish Qazi\Documents\Visual Studio 2012\Projects\BankLogin\BankLogin\bin\Debug\BancoSeguro.exe.config
+C:\Users\Oaish Qazi\Documents\Visual Studio 2012\Projects\BankLogin\BankLogin\bin\Debug\BancoSeguro.exe
+C:\Users\Oaish Qazi\Documents\Visual Studio 2012\Projects\BankLogin\BankLogin\bin\Debug\BancoSeguro.pdb
+C:\Users\Oaish Qazi\Documents\Visual Studio 2012\Projects\BankLogin\BankLogin\bin\Debug\BancoSeguro.xml
+C:\Users\Oaish Qazi\Documents\Visual Studio 2012\Projects\BankLogin\BankLogin\obj\Debug\BancoSeguro.Resources.resources
+C:\Users\Oaish Qazi\Documents\Visual Studio 2012\Projects\BankLogin\BankLogin\obj\Debug\Banco Seguro.vbproj.GenerateResource.Cache
+C:\Users\Oaish Qazi\Documents\Visual Studio 2012\Projects\BankLogin\BankLogin\obj\Debug\BancoSeguro.exe
+C:\Users\Oaish Qazi\Documents\Visual Studio 2012\Projects\BankLogin\BankLogin\obj\Debug\BancoSeguro.xml
+C:\Users\Oaish Qazi\Documents\Visual Studio 2012\Projects\BankLogin\BankLogin\obj\Debug\BancoSeguro.pdb
+C:\Users\Oaish Qazi\Documents\Visual Studio 2012\Projects\BankLogin\BankLogin\obj\Debug\BancoSeguro.Login.resources
+C:\Users\Oaish Qazi\Documents\Visual Studio 2012\Projects\BankLogin\BankLogin\obj\Debug\BancoSeguro.SplashScreen.resources
+C:\Users\Oaish Qazi\Documents\Visual Studio 2012\Projects\BankLogin\BankLogin\obj\Debug\BancoSeguro.Admin.resources
+C:\Users\Oaish Qazi\Documents\Visual Studio 2012\Projects\BankLogin\BankLogin\obj\Debug\Banco Seguro.vbprojResolveAssemblyReference.cache
+C:\Users\Oaish Qazi\Documents\Visual Studio 2012\Projects\BankLogin\BankLogin\obj\Debug\BancoSeguro.Deposit.resources
+C:\Users\Oaish Qazi\Documents\Visual Studio 2012\Projects\BankLogin\BankLogin\obj\Debug\BancoSeguro.Withdraw.resources
+C:\Users\Oaish Qazi\Documents\Visual Studio 2012\Projects\BankLogin\BankLogin\obj\Debug\BancoSeguro.History.resources
+C:\Users\Oaish Qazi\Documents\Visual Studio 2012\Projects\BankLogin\BankLogin\obj\Debug\BancoSeguro.Transfer.resources
+C:\Users\Oaish Qazi\Documents\Visual Studio 2012\Projects\BankLogin\BankLogin\obj\Debug\BancoSeguro.DisplayMsg.resources
+C:\Users\Oaish Qazi\Downloads\BankLogin\BankLogin\bin\Debug\BancoSeguro.exe.config
+C:\Users\Oaish Qazi\Downloads\BankLogin\BankLogin\obj\Debug\BancoSeguro.exe
+C:\Users\Oaish Qazi\Downloads\BankLogin\BankLogin\obj\Debug\BancoSeguro.xml
+C:\Users\Oaish Qazi\Downloads\BankLogin\BankLogin\obj\Debug\BancoSeguro.pdb
+C:\Users\Oaish Qazi\Downloads\BankLogin\BankLogin\bin\Debug\BancoSeguro.exe
+C:\Users\Oaish Qazi\Downloads\BankLogin\BankLogin\bin\Debug\BancoSeguro.pdb
+C:\Users\Oaish Qazi\Downloads\BankLogin\BankLogin\bin\Debug\BancoSeguro.xml
+C:\Users\Oaish Qazi\Downloads\BankLogin\BankLogin\obj\Debug\Banco Seguro.vbprojResolveAssemblyReference.cache
+C:\Users\Oaish Qazi\Downloads\BankLogin\BankLogin\obj\Debug\BancoSeguro.Deposit.resources
+C:\Users\Oaish Qazi\Downloads\BankLogin\BankLogin\obj\Debug\BancoSeguro.History.resources
+C:\Users\Oaish Qazi\Downloads\BankLogin\BankLogin\obj\Debug\BancoSeguro.DisplayMsg.resources
+C:\Users\Oaish Qazi\Downloads\BankLogin\BankLogin\obj\Debug\BancoSeguro.Login.resources
+C:\Users\Oaish Qazi\Downloads\BankLogin\BankLogin\obj\Debug\BancoSeguro.SplashScreen.resources
+C:\Users\Oaish Qazi\Downloads\BankLogin\BankLogin\obj\Debug\BancoSeguro.Resources.resources
+C:\Users\Oaish Qazi\Downloads\BankLogin\BankLogin\obj\Debug\BancoSeguro.Transfer.resources
+C:\Users\Oaish Qazi\Downloads\BankLogin\BankLogin\obj\Debug\BancoSeguro.Withdraw.resources
+C:\Users\Oaish Qazi\Downloads\BankLogin\BankLogin\obj\Debug\Banco Seguro.vbproj.GenerateResource.Cache
+C:\Users\Oaish Qazi\Downloads\BankLogin\BankLogin\obj\Debug\BancoSeguro.AdminForm.resources
+C:\Users\Oaish Qazi\Downloads\BankLogin\BankLogin\obj\Debug\BancoSeguro.TransactionTab.resources
+C:\Users\Oaish Qazi\Downloads\BankLogin\BankLogin\obj\Debug\BancoSeguro.Dashboard.resources
+C:\Users\Oaish Qazi\Downloads\BankLogin\BankLogin\obj\Debug\BancoSeguro.Account.resources
+C:\Users\Oaish Qazi\Downloads\BankLogin\BankLogin\obj\Debug\BancoSeguro.Create.resources
+C:\Users\Oaish Qazi\Downloads\BankLogin\BankLogin\obj\Debug\BancoSeguro.ProfilePicker.resources
+C:\Users\Oaish Qazi\Downloads\BankLogin\BankLogin\obj\Debug\BancoSeguro.Update.resources
+C:\Users\Oaish Qazi\Downloads\BankLogin\BankLogin\obj\Debug\BancoSeguro.Records.resources
+C:\Users\Oaish Qazi\Downloads\BankLogin\BankLogin\obj\Debug\BancoSeguro.Delete.resources
+C:\Users\Oaish Qazi\Downloads\BankLogin\BankLogin\obj\Debug\BancoSeguro.Manage.resources
+C:\Users\Oaish Qazi\Downloads\BankLogin\BankLogin\obj\Debug\BancoSeguro.EmpCreate.resources
+C:\Users\Oaish Qazi\Downloads\BankLogin\BankLogin\obj\Debug\BancoSeguro.ViewAccount.resources
+C:\Users\Oaish Qazi\Downloads\BankLogin\BankLogin\obj\Debug\BancoSeguro.Logout.resources
+C:\Users\Oaish Qazi\Downloads\BankLoginEx\BankLogin\bin\Debug\BancoSeguro.exe.config
+C:\Users\Oaish Qazi\Downloads\BankLoginEx\BankLogin\obj\Debug\BancoSeguro.exe
+C:\Users\Oaish Qazi\Downloads\BankLoginEx\BankLogin\obj\Debug\BancoSeguro.xml
+C:\Users\Oaish Qazi\Downloads\BankLoginEx\BankLogin\obj\Debug\BancoSeguro.pdb
+C:\Users\Oaish Qazi\Downloads\BankLoginEx\BankLogin\bin\Debug\BancoSeguro.exe
+C:\Users\Oaish Qazi\Downloads\BankLoginEx\BankLogin\bin\Debug\BancoSeguro.pdb
+C:\Users\Oaish Qazi\Downloads\BankLoginEx\BankLogin\bin\Debug\BancoSeguro.xml
+C:\Users\Oaish Qazi\Downloads\BankLoginEx\BankLogin\obj\Debug\Banco Seguro.vbprojResolveAssemblyReference.cache
+C:\Users\Oaish Qazi\Downloads\BankLoginEx\BankLogin\obj\Debug\BancoSeguro.Account.resources
+C:\Users\Oaish Qazi\Downloads\BankLoginEx\BankLogin\obj\Debug\BancoSeguro.AdminForm.resources
+C:\Users\Oaish Qazi\Downloads\BankLoginEx\BankLogin\obj\Debug\BancoSeguro.Create.resources
+C:\Users\Oaish Qazi\Downloads\BankLoginEx\BankLogin\obj\Debug\BancoSeguro.Dashboard.resources
+C:\Users\Oaish Qazi\Downloads\BankLoginEx\BankLogin\obj\Debug\BancoSeguro.Delete.resources
+C:\Users\Oaish Qazi\Downloads\BankLoginEx\BankLogin\obj\Debug\BancoSeguro.Deposit.resources
+C:\Users\Oaish Qazi\Downloads\BankLoginEx\BankLogin\obj\Debug\BancoSeguro.EmpCreate.resources
+C:\Users\Oaish Qazi\Downloads\BankLoginEx\BankLogin\obj\Debug\BancoSeguro.History.resources
+C:\Users\Oaish Qazi\Downloads\BankLoginEx\BankLogin\obj\Debug\BancoSeguro.DisplayMsg.resources
+C:\Users\Oaish Qazi\Downloads\BankLoginEx\BankLogin\obj\Debug\BancoSeguro.Login.resources
+C:\Users\Oaish Qazi\Downloads\BankLoginEx\BankLogin\obj\Debug\BancoSeguro.Logout.resources
+C:\Users\Oaish Qazi\Downloads\BankLoginEx\BankLogin\obj\Debug\BancoSeguro.Manage.resources
+C:\Users\Oaish Qazi\Downloads\BankLoginEx\BankLogin\obj\Debug\BancoSeguro.ProfilePicker.resources
+C:\Users\Oaish Qazi\Downloads\BankLoginEx\BankLogin\obj\Debug\BancoSeguro.SplashScreen.resources
+C:\Users\Oaish Qazi\Downloads\BankLoginEx\BankLogin\obj\Debug\BancoSeguro.Resources.resources
+C:\Users\Oaish Qazi\Downloads\BankLoginEx\BankLogin\obj\Debug\BancoSeguro.TransactionTab.resources
+C:\Users\Oaish Qazi\Downloads\BankLoginEx\BankLogin\obj\Debug\BancoSeguro.Transfer.resources
+C:\Users\Oaish Qazi\Downloads\BankLoginEx\BankLogin\obj\Debug\BancoSeguro.Update.resources
+C:\Users\Oaish Qazi\Downloads\BankLoginEx\BankLogin\obj\Debug\BancoSeguro.Records.resources
+C:\Users\Oaish Qazi\Downloads\BankLoginEx\BankLogin\obj\Debug\BancoSeguro.ViewAccount.resources
+C:\Users\Oaish Qazi\Downloads\BankLoginEx\BankLogin\obj\Debug\BancoSeguro.Withdraw.resources
+C:\Users\Oaish Qazi\Downloads\BankLoginEx\BankLogin\obj\Debug\Banco Seguro.vbproj.GenerateResource.Cache
+C:\Users\Oaish Qazi\Downloads\BankLoginEx\BankLogin\obj\Debug\BancoSeguro.EmpUpdate.resources
+C:\Users\Oaish Qazi\Downloads\BankLoginEx\BankLogin\obj\Debug\BancoSeguro.EmpDelete.resources
+C:\Users\Oaish Qazi\Documents\Code\BankLoginEx\BankLogin\bin\Debug\BancoSeguro.exe.config
+C:\Users\Oaish Qazi\Documents\Code\BankLoginEx\BankLogin\obj\Debug\BancoSeguro.exe
+C:\Users\Oaish Qazi\Documents\Code\BankLoginEx\BankLogin\obj\Debug\BancoSeguro.xml
+C:\Users\Oaish Qazi\Documents\Code\BankLoginEx\BankLogin\obj\Debug\BancoSeguro.pdb
+C:\Users\Oaish Qazi\Documents\Code\BankLoginEx\BankLogin\bin\Debug\BancoSeguro.exe
+C:\Users\Oaish Qazi\Documents\Code\BankLoginEx\BankLogin\bin\Debug\BancoSeguro.pdb
+C:\Users\Oaish Qazi\Documents\Code\BankLoginEx\BankLogin\bin\Debug\BancoSeguro.xml
+C:\Users\Oaish Qazi\Documents\Code\BankLoginEx\BankLogin\obj\Debug\Banco Seguro.vbprojResolveAssemblyReference.cache
+C:\Users\Oaish Qazi\Documents\Code\BankLoginEx\BankLogin\obj\Debug\BancoSeguro.Account.resources
+C:\Users\Oaish Qazi\Documents\Code\BankLoginEx\BankLogin\obj\Debug\BancoSeguro.AdminForm.resources
+C:\Users\Oaish Qazi\Documents\Code\BankLoginEx\BankLogin\obj\Debug\BancoSeguro.Create.resources
+C:\Users\Oaish Qazi\Documents\Code\BankLoginEx\BankLogin\obj\Debug\BancoSeguro.Dashboard.resources
+C:\Users\Oaish Qazi\Documents\Code\BankLoginEx\BankLogin\obj\Debug\BancoSeguro.Delete.resources
+C:\Users\Oaish Qazi\Documents\Code\BankLoginEx\BankLogin\obj\Debug\BancoSeguro.Deposit.resources
+C:\Users\Oaish Qazi\Documents\Code\BankLoginEx\BankLogin\obj\Debug\BancoSeguro.EmpCreate.resources
+C:\Users\Oaish Qazi\Documents\Code\BankLoginEx\BankLogin\obj\Debug\BancoSeguro.EmpDelete.resources
+C:\Users\Oaish Qazi\Documents\Code\BankLoginEx\BankLogin\obj\Debug\BancoSeguro.EmpUpdate.resources
+C:\Users\Oaish Qazi\Documents\Code\BankLoginEx\BankLogin\obj\Debug\BancoSeguro.History.resources
+C:\Users\Oaish Qazi\Documents\Code\BankLoginEx\BankLogin\obj\Debug\BancoSeguro.DisplayMsg.resources
+C:\Users\Oaish Qazi\Documents\Code\BankLoginEx\BankLogin\obj\Debug\BancoSeguro.Login.resources
+C:\Users\Oaish Qazi\Documents\Code\BankLoginEx\BankLogin\obj\Debug\BancoSeguro.Logout.resources
+C:\Users\Oaish Qazi\Documents\Code\BankLoginEx\BankLogin\obj\Debug\BancoSeguro.Main.resources
+C:\Users\Oaish Qazi\Documents\Code\BankLoginEx\BankLogin\obj\Debug\BancoSeguro.Manage.resources
+C:\Users\Oaish Qazi\Documents\Code\BankLoginEx\BankLogin\obj\Debug\BancoSeguro.ProfilePicker.resources
+C:\Users\Oaish Qazi\Documents\Code\BankLoginEx\BankLogin\obj\Debug\BancoSeguro.SplashScreen.resources
+C:\Users\Oaish Qazi\Documents\Code\BankLoginEx\BankLogin\obj\Debug\BancoSeguro.Resources.resources
+C:\Users\Oaish Qazi\Documents\Code\BankLoginEx\BankLogin\obj\Debug\BancoSeguro.TransactionTab.resources
+C:\Users\Oaish Qazi\Documents\Code\BankLoginEx\BankLogin\obj\Debug\BancoSeguro.Transfer.resources
+C:\Users\Oaish Qazi\Documents\Code\BankLoginEx\BankLogin\obj\Debug\BancoSeguro.Update.resources
+C:\Users\Oaish Qazi\Documents\Code\BankLoginEx\BankLogin\obj\Debug\BancoSeguro.Records.resources
+C:\Users\Oaish Qazi\Documents\Code\BankLoginEx\BankLogin\obj\Debug\BancoSeguro.ViewAccount.resources
+C:\Users\Oaish Qazi\Documents\Code\BankLoginEx\BankLogin\obj\Debug\BancoSeguro.Withdraw.resources
+C:\Users\Oaish Qazi\Documents\Code\BankLoginEx\BankLogin\obj\Debug\Banco Seguro.vbproj.GenerateResource.Cache
+C:\Users\Oaish Qazi\Documents\Code\BankLoginEx\BankLogin\obj\Debug\BancoSeguro.Emi Calculator.resources
+C:\Users\Oaish Qazi\Documents\Code\BankLoginEx\BankLogin\obj\Debug\BancoSeguro.home loan.resources
+C:\Users\Oaish Qazi\Documents\Code\BankLoginEx\BankLogin\obj\Debug\BancoSeguro.Loan.resources

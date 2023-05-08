@@ -1,0 +1,51 @@
+C:\Users\Oaish Qazi\Documents\Code\BankLoginEx\BankLogin\bin\Release\BancoSeguro.exe.config
+C:\Users\Oaish Qazi\Documents\Code\BankLoginEx\BankLogin\bin\Release\BancoSeguro.exe
+C:\Users\Oaish Qazi\Documents\Code\BankLoginEx\BankLogin\bin\Release\BancoSeguro.pdb
+C:\Users\Oaish Qazi\Documents\Code\BankLoginEx\BankLogin\bin\Release\BancoSeguro.xml
+C:\Users\Oaish Qazi\Documents\Code\BankLoginEx\BankLogin\bin\Release\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Oaish Qazi\Documents\Code\BankLoginEx\BankLogin\bin\Release\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Users\Oaish Qazi\Documents\Code\BankLoginEx\BankLogin\bin\Release\Microsoft.VisualBasic.PowerPacks.Vs.xml
+C:\Users\Oaish Qazi\Documents\Code\BankLoginEx\BankLogin\bin\Release\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Oaish Qazi\Documents\Code\BankLoginEx\BankLogin\bin\Release\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Oaish Qazi\Documents\Code\BankLoginEx\BankLogin\bin\Release\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Oaish Qazi\Documents\Code\BankLoginEx\BankLogin\bin\Release\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Oaish Qazi\Documents\Code\BankLoginEx\BankLogin\bin\Release\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Oaish Qazi\Documents\Code\BankLoginEx\BankLogin\bin\Release\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Oaish Qazi\Documents\Code\BankLoginEx\BankLogin\bin\Release\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Oaish Qazi\Documents\Code\BankLoginEx\BankLogin\bin\Release\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Oaish Qazi\Documents\Code\BankLoginEx\BankLogin\bin\Release\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Oaish Qazi\Documents\Code\BankLoginEx\BankLogin\bin\Release\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Oaish Qazi\Documents\Code\BankLoginEx\BankLogin\obj\Release\Banco Seguro.vbproj.AssemblyReference.cache
+C:\Users\Oaish Qazi\Documents\Code\BankLoginEx\BankLogin\obj\Release\BancoSeguro.Account.resources
+C:\Users\Oaish Qazi\Documents\Code\BankLoginEx\BankLogin\obj\Release\BancoSeguro.AdminForm.resources
+C:\Users\Oaish Qazi\Documents\Code\BankLoginEx\BankLogin\obj\Release\BancoSeguro.Create.resources
+C:\Users\Oaish Qazi\Documents\Code\BankLoginEx\BankLogin\obj\Release\BancoSeguro.Dashboard.resources
+C:\Users\Oaish Qazi\Documents\Code\BankLoginEx\BankLogin\obj\Release\BancoSeguro.Delete.resources
+C:\Users\Oaish Qazi\Documents\Code\BankLoginEx\BankLogin\obj\Release\BancoSeguro.Deposit.resources
+C:\Users\Oaish Qazi\Documents\Code\BankLoginEx\BankLogin\obj\Release\BancoSeguro.Emi Calculator.resources
+C:\Users\Oaish Qazi\Documents\Code\BankLoginEx\BankLogin\obj\Release\BancoSeguro.EmpCreate.resources
+C:\Users\Oaish Qazi\Documents\Code\BankLoginEx\BankLogin\obj\Release\BancoSeguro.EmpDelete.resources
+C:\Users\Oaish Qazi\Documents\Code\BankLoginEx\BankLogin\obj\Release\BancoSeguro.EmpUpdate.resources
+C:\Users\Oaish Qazi\Documents\Code\BankLoginEx\BankLogin\obj\Release\BancoSeguro.History.resources
+C:\Users\Oaish Qazi\Documents\Code\BankLoginEx\BankLogin\obj\Release\BancoSeguro.DisplayMsg.resources
+C:\Users\Oaish Qazi\Documents\Code\BankLoginEx\BankLogin\obj\Release\BancoSeguro.home loan.resources
+C:\Users\Oaish Qazi\Documents\Code\BankLoginEx\BankLogin\obj\Release\BancoSeguro.Loan.resources
+C:\Users\Oaish Qazi\Documents\Code\BankLoginEx\BankLogin\obj\Release\BancoSeguro.Login.resources
+C:\Users\Oaish Qazi\Documents\Code\BankLoginEx\BankLogin\obj\Release\BancoSeguro.Logout.resources
+C:\Users\Oaish Qazi\Documents\Code\BankLoginEx\BankLogin\obj\Release\BancoSeguro.Main.resources
+C:\Users\Oaish Qazi\Documents\Code\BankLoginEx\BankLogin\obj\Release\BancoSeguro.Manage.resources
+C:\Users\Oaish Qazi\Documents\Code\BankLoginEx\BankLogin\obj\Release\BancoSeguro.ProfilePicker.resources
+C:\Users\Oaish Qazi\Documents\Code\BankLoginEx\BankLogin\obj\Release\BancoSeguro.SplashScreen.resources
+C:\Users\Oaish Qazi\Documents\Code\BankLoginEx\BankLogin\obj\Release\BancoSeguro.Resources.resources
+C:\Users\Oaish Qazi\Documents\Code\BankLoginEx\BankLogin\obj\Release\BancoSeguro.TransactionTab.resources
+C:\Users\Oaish Qazi\Documents\Code\BankLoginEx\BankLogin\obj\Release\BancoSeguro.Transfer.resources
+C:\Users\Oaish Qazi\Documents\Code\BankLoginEx\BankLogin\obj\Release\BancoSeguro.Update.resources
+C:\Users\Oaish Qazi\Documents\Code\BankLoginEx\BankLogin\obj\Release\BancoSeguro.Records.resources
+C:\Users\Oaish Qazi\Documents\Code\BankLoginEx\BankLogin\obj\Release\BancoSeguro.ViewAccount.resources
+C:\Users\Oaish Qazi\Documents\Code\BankLoginEx\BankLogin\obj\Release\BancoSeguro.Withdraw.resources
+C:\Users\Oaish Qazi\Documents\Code\BankLoginEx\BankLogin\obj\Release\Banco Seguro.vbproj.GenerateResource.cache
+C:\Users\Oaish Qazi\Documents\Code\BankLoginEx\BankLogin\obj\Release\Banco Seguro.vbproj.CoreCompileInputs.cache
+C:\Users\Oaish Qazi\Documents\Code\BankLoginEx\BankLogin\obj\Release\Banco Seguro.vbproj.CopyComplete
+C:\Users\Oaish Qazi\Documents\Code\BankLoginEx\BankLogin\obj\Release\BancoSeguro.exe
+C:\Users\Oaish Qazi\Documents\Code\BankLoginEx\BankLogin\obj\Release\BancoSeguro.xml
+C:\Users\Oaish Qazi\Documents\Code\BankLoginEx\BankLogin\obj\Release\BancoSeguro.pdb
